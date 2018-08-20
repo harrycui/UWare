@@ -1,0 +1,4 @@
+num of files, unique files, duplicated files, near-duplicated files, num of blocks, unique blocks, duplicated blocks, total file size, unique block(file) size, deduplicate block size, num of rpT, num of fid in RPTIndex, total client time, total UWare time, cum client time, cum UWare time, dedup ratio
+35749, 32400, 3205, 144, 553740, 497651, 56089, 9251, 8339, 911, 0, 0, 8364974059, 8602755547, 8364974059, 8602755547, 9.854079324560693
+4096,168827
+131072,276471971

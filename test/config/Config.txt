@@ -1,0 +1,24 @@
+
+#checkFrequence = 53687091200
+checkFrequence = 40000
+
+testingNum = 500
+
+# 1 exact file-level, 2 exact block-level, 3 similarity-based dual-level
+# 4 similarity-based per-block randomness
+dedupEngine = 4
+
+# 1 uniform, 2 minimum, 3 random
+samplingMethod = 1
+
+
+
+R = 128
+
+topK = 1
+
+rootPath = ./test/
+
+testFilePath = data/
+
+outFilePath = output/
